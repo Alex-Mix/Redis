@@ -1,2 +1,2 @@
 # Redis
-为各种JavaRedis
+为各种Redis的Java客户端提供统一的接口以方便开发，并提供各个Java客户端对Redis高级功能的实现
